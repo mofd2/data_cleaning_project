@@ -29,7 +29,7 @@ To run the data cleaning project, follow these steps:
 pip install pandas
 ```
 
-3. Ensure that the dataset file is available in the same directory you mentioned in the code, line [].
+3. Ensure that the dataset file is available in the same directory you mentioned in the code.
 
 4. Execute the notebook cells sequentially to perform the data cleaning process on the dataset. Modify the notebook as needed to adjust the special condition for row filtering.
 
@@ -43,7 +43,7 @@ The project relies on the following Python libraries:
 
 ## Dataset
 
-Please ensure that you have downloaded the dataset and refer to in line: [] in the code.
+Please ensure that you have downloaded the dataset and refer to in the code.
 
 ---
 
